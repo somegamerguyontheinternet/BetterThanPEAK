@@ -1,0 +1,1478 @@
+[Error  :   BepInEx] Unable to start Unity log writer
+[Message:   BepInEx] BepInEx 5.4.23.3 - PEAK (12/24/2025 9:27:12 PM)
+[Info   :   BepInEx] Running under Unity v6000.0.36.10478517
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.3]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.AutoHookGenPatcher 1.0.9.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [Hamunii.DetourContext.Dispose_Fix 1.0.7.0]
+[Info   :   BepInEx] 3 patcher plugins loaded
+[Info   :   Console] [MonoMod] 
+[Info   :   Console] Reading input file into module.
+[Info   :AutoHookGenPatcher] [RunHookGen] Starting HookGenerator for MMHOOK_Assembly-CSharp.dll
+[Info   :AutoHookGenPatcher] [RunHookGen] HookGen done for MMHOOK_Assembly-CSharp.dll
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 11 plugins to load
+[Info   :   BepInEx] Loading [HardcoreParkour 0.2.3]
+[Info   :HardcoreParkour] Plugin HardcoreParkour is loaded!
+[Info   :   BepInEx] Loading [PEAKLib.Core 1.7.2]
+[Info   :   BepInEx] Loading [PEAKLib.Items 1.6.0]
+[Info   :   BepInEx] Loading [PeakStranding 0.9.3]
+[Info   :PeakStranding] Plugin PeakStranding is patching...
+[Info   :PeakStranding] Plugin PeakStranding is loaded!
+[Info   :   BepInEx] Loading [PEAK Class Mod 1.0.0]
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Character and name ShowMedicHealEffectRPC and parameters 
+[Info   :   BepInEx] Loading [Everest 1.3.0]
+[Info   :   Everest] Configuration loaded successfully.
+[Info   :   Everest] Enabled: True
+[Info   :   Everest] Max Skeletons: 100
+[Info   :   Everest] Allow Uploads: True
+[Info   :   Everest] Hide Floaters: True
+[Info   :   Everest] Exclude Near Crash Site: False
+[Info   :   Everest] Exclude Near Campfires: False
+[Info   :   Everest] Skeleton Draw Distance: 150
+[Info   :   Everest] Culling Update Frequency: 1 seconds
+[Info   :   Everest] Max Visible Skeletons: 100
+[Info   :   Everest] Show Toasts: True
+[Info   :   Everest] Show Skeleton Nametags: True
+[Info   :   Everest] Show Time Since Death: True
+[Info   :   Everest] Show Seconds Always: False
+[Info   :   Everest] Max Distance For Visible Nametag: 8
+[Info   :   Everest] Min Distance For Visible Nametag: 3
+[Info   :   Everest] Max Angle For Visible Nametag: 25
+[Info   :   Everest] Max Nametag Size: 2.5
+[Info   :   Everest] Min Nametag Size: 1.2
+[Info   :   Everest] Nametag Color: RGBA(1.000, 1.000, 1.000, 1.000)
+[Info   :   Everest] Nametag Outline Width: 0.05
+[Info   :   Everest] Nametag Outline Color: RGBA(0.000, 0.000, 0.000, 1.000)
+[Info   :   Everest] Loading compute shader...
+[Info   :   BepInEx] Loading [ThirdPersonToggle 1.0.10]
+[Info   :   BepInEx] Loading [MoreAscents 1.0.0]
+[Info   :MoreAscents] Queued Ascent 8
+[Info   :MoreAscents] Queued Ascent 9
+[Info   :MoreAscents] Queued Ascent 10
+[Info   :MoreAscents] Queued Ascent 11
+[Info   :MoreAscents] Queued Ascent 12
+[Info   :MoreAscents] Queued Chaos 1
+[Info   :MoreAscents] Queued Chaos 2
+[Info   :MoreAscents] Queued Chaos 3
+[Info   :MoreAscents] Queued Chaos 4
+[Info   :MoreAscents] initializing with (9 custom) and (9 base)
+[Info   :MoreAscents] Plugin MoreAscents is loaded!
+[Info   :   BepInEx] Loading [MoreCustomizations 1.1.9]
+[Info   :MoreCustomizations] Found 2 possible contents.
+[Info   :MoreCustomizations] Asset bundle 'allhats' loaded! (\MoreCustomizations\allhats.pcab)
+[Info   :MoreCustomizations] Catalog list :
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/brook scar.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/chopper nose.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/dan_brookscar.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/dan_chopper.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/dan_frankyglasses.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/dan_jimbe scar.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/dan_luffy scar.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/dan_sanji bros.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/dan_zoro eye.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/franky glasses.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/jimbe brows.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/luffy scar.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/sanji brows.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/accessories/zoro eyes.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/bleach/ichigo/dan_ichigo.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/bleach/ichigo/dan_ichigo.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/bleach/ichigo/ichigo.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/bleach/ichigo/ichigo.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/bleach/ichigo/ichigo.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/bleach/ichigo/ichigo_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/bleach/urahaa/dan_urahaa.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/bleach/urahaa/dan_urahaa.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/bleach/urahaa/urahara hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/bleach/urahaa/urahara hat.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/bleach/urahaa/urahara hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/bleach/urahaa/urahra_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/broly/broly.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/broly/broly.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/broly/broly.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/broly/broly_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/broly/dan_broly.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/broly/dan_broly.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/cell/cell.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/cell/cell.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/cell/cell.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/cell/cell_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/cell/dan_cell.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/cell/dan_cell.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/cooler/cooler.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/cooler/cooler.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/cooler/cooler.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/cooler/cooler_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/cooler/dan_cooler.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/cooler/dan_cooler.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/frieza/dan_.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/frieza/dan_frieza.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/frieza/freiiza_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/frieza/frieza.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/frieza/frieza.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/frieza/frieza.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/goku hair/dan_goku.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/goku hair/dan_goku.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/goku hair/gbn_avt_base.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/goku hair/goku_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/goku hair/gokuhair.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/goku hair/gokuhair.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/goku ssj/dan_ssj.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/goku ssj/dan_ssj.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/goku ssj/gks_avt_base.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/goku ssj/goku sjj.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/goku ssj/goku sjj.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/goku ssj/gokussj_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/piccalo/dan_piccalo.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/piccalo/dan_piccalo.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/piccalo/pcw_avt_base.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/piccalo/piccalo.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/piccalo/piccalo.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/piccalo/piccalo_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/saiyaman/dan_saiyaman.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/saiyaman/dan_saiyaman.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/saiyaman/saiyaman.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/saiyaman/saiyaman.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/saiyaman/saiyaman.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/saiyaman/saiyaman_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/vegeta/dan_vegerta.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/vegeta/dan_veta.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/vegeta/vegeta.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/vegeta/vegeta.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/vegeta/vegeta.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/dbz/vegeta/vegeta_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/hololive/miku/dan_miku.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/hololive/miku/dan_miku.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/hololive/miku/miku.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/hololive/miku/miku.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/hololive/miku/miku.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/hololive/miku/miku_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/hololive/teto/dan_teto.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/hololive/teto/dan_teto.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/hololive/teto/teto.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/hololive/teto/teto.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/hololive/teto/teto.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/hololive/teto/teto_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/dio brando/dan_dio brando.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/dio brando/dan_dio brando.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/dio brando/dio.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/dio brando/dio.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/dio brando/dio.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/dio brando/dio_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/josuke/dan_josuke.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/josuke/dan_josuke.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/josuke/joesuke_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/josuke/joskue.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/josuke/joskue.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/josuke/josuke.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/jotaro/dan_jotaro.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/jotaro/dan_jotaro.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/jotaro/jotaro hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/jotaro/jotaro hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/jotaro/jotaro icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/jotaro/jotaro.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/kakyoin/dan_kakyoin.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/kakyoin/dan_kakyoin.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/kakyoin/kakyoin hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/kakyoin/kakyoin hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/kakyoin/kakyoin icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/kakyoin/kakyoin textures.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/polnareff/dan_polnareff.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/polnareff/dan_polnareff.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/polnareff/polanaeff.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/polnareff/polnareff.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/polnareff/polnareff.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/polnareff/polnareff_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/the world/dan_the world.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/the world/dan_the world.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/the world/the world hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/the world/the world hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/the world/the world icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/the world/the world textures.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/yoshikage kira/dan_kira.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/yoshikage kira/dan_kira.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/yoshikage kira/kira.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/yoshikage kira/kira.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/yoshikage kira/kira.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/jojo/yoshikage kira/kira_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/konosuba/aqua/aqua.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/konosuba/aqua/aqua.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/konosuba/aqua/aqua1.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/konosuba/aqua/aqua_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/konosuba/aqua/dan_aqua.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/konosuba/aqua/dan_aqua.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/konosuba/megumin/dan_megumin.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/konosuba/megumin/dan_megumin.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/konosuba/megumin/megumin.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/konosuba/megumin/megumin.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/konosuba/megumin/megumin1.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/konosuba/megumin/megumin_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/myhero/all might/all might.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/myhero/all might/all might_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/myhero/all might/allmight.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/myhero/all might/dan_all might.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/myhero/all might/dan_all might.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/myhero/bakugo/bakago.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/myhero/bakugo/bakago.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/myhero/bakugo/bakago.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/myhero/bakugo/bakago_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/myhero/bakugo/dan_bakago.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/myhero/bakugo/dan_bakago.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/hokage hat/dan_hokage.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/hokage hat/dan_hokage.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/hokage hat/hokage.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/hokage hat/hokage.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/hokage hat/hokage.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/hokage hat/hokage_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/kakashi/dan_kakashi.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/kakashi/dan_kakashi.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/kakashi/kakashi.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/kakashi/kakashi.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/kakashi/kakashi.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/kakashi/kakashi_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/kurama/dan_kurama.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/kurama/dan_kurama.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/kurama/kurama.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/kurama/kurama.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/kurama/kurama.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/kurama/kurama_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/might guy/dan_might guy.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/might guy/dan_might guy.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/might guy/guy.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/might guy/guy.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/might guy/guy.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/might guy/might guy_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/minato/dan_minato.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/minato/dan_minato.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/minato/minato.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/minato/minato.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/minato/minato.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/minato/minoto_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/naruto/dan_naruto.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/naruto/dan_naruto.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/naruto/naruto.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/naruto/naruto.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/naruto/naruto.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/naruto/naruto_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/pain/dan_pain.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/pain/dan_pain.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/pain/pain.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/pain/pain.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/pain/pain.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/pain/pain_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/sakura/dan_sakura.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/sakura/dan_sakura.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/sakura/sakura.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/sakura/sakura.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/sakura/sakura.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/sakura/sakura_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/sasuke/dan_sasuke.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/sasuke/dan_sasuke.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/sasuke/sasuke.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/sasuke/sasuke.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/sasuke/sasuke.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/naruto/sasuke/sasuke_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/01_luffy/dan_lufy.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/01_luffy/dan_lufy.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/01_luffy/luffy texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/01_luffy/luffy_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/01_luffy/luffy_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/01_luffy/luffy_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/01a_gear 5/dan_g5.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/01a_gear 5/dan_g5.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/01a_gear 5/gear 5.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/01a_gear 5/gear 5.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/01a_gear 5/gear5 hair.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/01a_gear 5/gear5.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/02_zoro/dan_zoro.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/02_zoro/dan_zoro.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/02_zoro/zoro texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/02_zoro/zoro_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/02_zoro/zoro_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/02_zoro/zoro_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/03_nami/dan_nami.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/03_nami/dan_nami.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/03_nami/nami texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/03_nami/nami_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/03_nami/nami_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/03_nami/nami_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/04_usopp/dan_usopp.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/04_usopp/dan_usopp.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/04_usopp/usopp_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/04_usopp/usopp_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/04_usopp/usopp_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/04_usopp/ussop texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/05_sanji/dan_sanji.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/05_sanji/dan_sanji.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/05_sanji/sanji texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/05_sanji/sanji_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/05_sanji/sanji_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/05_sanji/sanji_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/06_chopper/chopper texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/06_chopper/chopper_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/06_chopper/chopper_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/06_chopper/chopper_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/06_chopper/dan_chopper.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/06_chopper/dan_chopper.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/07_robin/dan_robin.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/07_robin/dan_robin.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/07_robin/robin texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/07_robin/robin_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/07_robin/robin_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/07_robin/robin_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/08_franky/dan_franky.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/08_franky/dan_franky.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/08_franky/franky texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/08_franky/franky_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/08_franky/franky_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/08_franky/franky_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/09_brook/brook texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/09_brook/brook_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/09_brook/brook_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/09_brook/brook_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/09_brook/dan_brook.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/09_brook/dan_brook.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/10_jimbe/dan_j.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/10_jimbe/dan_j.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/10_jimbe/jimbe texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/10_jimbe/jimbe_hata.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/10_jimbe/jimbe_hata.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/10_jimbe/jimbe_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/11_law/dan_law.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/11_law/dan_law.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/11_law/law.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/11_law/law.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/11_law/law.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/one piece hats/11_law/law_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/chainsawman/chainsaw_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/chainsawman/chainsawman.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/chainsawman/chainsawman.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/chainsawman/chainsawman_texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/chainsawman/dan_saw.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/chainsawman/dan_saw.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/dimple/dan_dimple.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/dimple/dan_dimple.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/dimple/dimple.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/dimple/dimple.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/dimple/dimple.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/dimple/dimple_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/elric/dan_elric.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/elric/dan_elric.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/elric/elric.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/elric/elric.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/elric/elric.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/elric/elric_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/guts/dan_guts.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/guts/dan_guts.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/guts/guts.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/guts/guts.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/guts/guts_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/guts/tex_dvl_mdl_guts02_alb_cnv.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/inosuke/dan_inosuke.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/inosuke/dan_inosuke.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/inosuke/inosuke.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/inosuke/inosuke.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/inosuke/inosuke.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/inosuke/inosuke_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/kamina glasses/dan_kamina glasses.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/kamina glasses/dan_kamina glasses.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/kamina glasses/kamina glasses.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/kamina glasses/kamina glasses.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/kamina glasses/kamina shades.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/kamina glasses/kamina_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/kaneki/dan_kaneki.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/kaneki/dan_kaneki.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/kaneki/kaneki_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/kaneki/keneki.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/kaneki/kenki.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/kaneki/kenki.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/yugi moto/dan_yugi.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/yugi moto/dan_yugioh.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/yugi moto/t_chr0400_hair_c.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/yugi moto/yugi.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/yugi moto/yugi.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/anime/other anime/yugi moto/yugi_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/bmo/bmo.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/bmo/bmo.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/bmo/bmo.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/bmo/bmo_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/bmo/dan_bmo.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/bmo/dan_bmo.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/finn/dan_finn.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/finn/danfinn.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/finn/finn.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/finn/finn.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/finn/finn.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/finn/finn_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/ice king/dan_ice king.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/ice king/dan_ice king.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/ice king/ice king.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/ice king/ice king_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/ice king/ice_king.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/adventure time/ice king/ice_king.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/batman/batman.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/batman/batman.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/batman/batman.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/batman/batman_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/batman/dan_bat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/batman/dan_bat.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/glep/glep.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/glep/glep.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/glep/glep.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/glep/glep.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/glep/glep.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/glep/glepa.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/optimus/dan_op.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/optimus/dan_op.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/optimus/optimus.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/optimus/optimus.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/optimus/optimus.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/optimus/optimus_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/pops/dan_pop.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/pops/dan_pop.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/pops/pops.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/pops/pops.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/pops/pops.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/pops/pops_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/cartman/cartman.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/cartman/cartman.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/cartman/cartman.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/cartman/cartman_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/cartman/dan_cartman.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/cartman/dan_cartman.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/kenny/dan_kenny.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/kenny/dan_kenny.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/kenny/kenny.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/kenny/kenny.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/kenny/kenny.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/kenny/kenny_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/kyle/dan_kyle.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/kyle/dan_kyle.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/kyle/kyle.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/kyle/kyle.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/kyle/kyle.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/kyle/kyle_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/stan/dan_stan.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/stan/dan_stan.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/stan/stan.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/stan/stan.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/stan/stan.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/south park/stan/stan_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spiderman/dan_spider.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spiderman/dan_spider.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spiderman/handle1tex.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spiderman/spiderman.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spiderman/spiderman.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spiderman/spiderman_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/drinking hat/dan_drinking hat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/drinking hat/dan_drinking hat.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/drinking hat/drink hat.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/drinking hat/drink_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/drinking hat/drink_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/drinking hat/drinking hat_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/krusty krab hat/dan_krusty krab hat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/krusty krab hat/dan_krusty krab hat.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/krusty krab hat/krusty krab hat.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/krusty krab hat/krusty_krab_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/krusty krab hat/krusty_krab_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/krusty krab hat/krustykrab_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/spongebob/dan_spongebob.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/spongebob/dan_spongebob.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/spongebob/spongebob hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/spongebob/spongebob hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/spongebob/spongebob icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/spongebob/spongebob/spongebob textures.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/starwars/darthvader/dan_dart.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/starwars/darthvader/dan_dart.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/starwars/darthvader/darth vader_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/starwars/darthvader/darthvader.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/starwars/darthvader/darthvader.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/starwars/darthvader/darthvader.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/starwars/storm trooper/dan_storm.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/starwars/storm trooper/dan_storm.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/starwars/storm trooper/storm trooper.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/starwars/storm trooper/storm_trooper.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/starwars/storm trooper/storm_trooper.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/starwars/storm trooper/stormtrooper_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/wander/dan_wander.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/wander/dan_wander.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/wander/wander.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/wander/wander.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/wander/wander.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/cartoons/wander/wander_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/aiai/aiai.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/aiai/aiai.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/aiai/aiai.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/aiai/aiai_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/aiai/dan_aiai.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/aiai/dan_aiai.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/aku aku/aku aku.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/aku aku/akuaku.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/aku aku/akuaku.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/aku aku/akuaku_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/aku aku/dan_aku.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/aku aku/dan_awku.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/amigo/amigo.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/amigo/amigo.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/amigo/amigo.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/amigo/amigo_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/amigo/dan_amigo.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/amigo/dan_amigo.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/beat/beat.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/beat/beats.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/beat/beats.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/beat/beats_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/beat/dan_beat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/beat/dan_beat.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/billyhatcher/billyhatcher.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/billyhatcher/billyhatcher.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/billyhatcher/billyhatcher.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/billyhatcher/chicken_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/billyhatcher/dan_billyhatcher.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/billyhatcher/dan_billyhatcher.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/bomberman/bomber_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/bomberman/bomberman.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/bomberman/bomberman.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/bomberman/bomberman.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/bomberman/dan_bomberman.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/bomberman/dan_bomberman.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/cloud/cloud.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/cloud/cloud.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/cloud/cloud.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/cloud/cloud_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/cloud/dan_cloud.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/cloud/dan_cloud.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/cupehead/cupehead.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/cupehead/cupehead.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/cupehead/cupehead.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/cupehead/cuphead_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/cupehead/dan_cupehead.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/cupehead/dan_cupehead.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/doomslayer/dan_doom.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/doomslayer/dan_doom.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/doomslayer/doom.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/doomslayer/doomslayer.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/doomslayer/doomslayer.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/doomslayer/doomslayer_game_helmet.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/freddy fazbear/dan_freddy fazbear.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/freddy fazbear/danfreddy fazbear.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/freddy fazbear/freddy.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/freddy fazbear/freddy.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/freddy fazbear/freddy.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/freddy fazbear/freddy_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/handsome jack/dan_handsomejack.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/handsome jack/dan_handsomejack.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/handsome jack/handsome jack.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/handsome jack/handsomejack_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/handsome jack/handsomjack.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/handsome jack/handsomjack.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/hollow knight/hollow knight.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/hollow knight/hollow knight.jpg
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/hollow knight/hollow knight.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/hollow knight/hollow.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/hollow knight/hollow.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/hollow knight/hollow.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/homid/dan_homid.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/homid/dan_homid.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/homid/homid icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/homid/homid.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/homid/homid.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/homid/homid.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/issac/dan_issac.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/issac/dan_issac.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/issac/isaac.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/issac/issac.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/issac/issac.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/issac/issac_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/katamari/kingofcosmos/dan_king.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/katamari/kingofcosmos/dan_king.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/katamari/kingofcosmos/king cosmos.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/katamari/kingofcosmos/king cosmos.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/katamari/kingofcosmos/kingofcosmos.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/katamari/kingofcosmos/kingofcosmos_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/katamari/prince/dan_prince.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/katamari/prince/dan_prince.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/katamari/prince/prince.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/katamari/prince/prince.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/katamari/prince/prince.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/katamari/prince/prince_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/master chief/dan_master chief.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/master chief/dan_master chief.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/master chief/master cheif_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/master chief/master chief.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/master chief/master_chief.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/master chief/master_chief.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/megaman/dan_megaman.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/megaman/dan_megaman.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/megaman/megaman.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/megaman/megaman.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/megaman/megaman.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/megaman/megaman_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/proto/dan_proto.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/proto/dan_proto.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/proto/proto.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/proto/proto.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/proto/proto.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/proto/proto_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/zero/dan_zero.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/zero/dan_zero.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/zero/zero.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/zero/zero.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/zero/zero.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/megaman/zero/zero_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/monokuma/dan_monokuma.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/monokuma/dan_monokuma.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/monokuma/monokuma.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/monokuma/monokuma.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/monokuma/monokuma.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/monokuma/monokuma_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nights/dan_nights.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nights/dan_nights.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nights/nights.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nights/nights.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nights/nights.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nights/nights_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/niko/dan_niko.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/niko/dan_niko.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/niko/maintexture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/niko/niko.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/niko/niko.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/niko/niko_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/ninjamask/dan_ninjamask.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/ninjamask/dan_ninjamask.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/ninjamask/ninja_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/ninjamask/ninjamask.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/ninjamask/ninjamask.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/ninjamask/ninjamask.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/animalcrossing/isabelle hat/dan_isabelle hat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/animalcrossing/isabelle hat/dan_isabelle hat.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/animalcrossing/isabelle hat/hat_secretary_color.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/animalcrossing/isabelle hat/issabele_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/animalcrossing/isabelle hat/issable.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/animalcrossing/isabelle hat/issable.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/animalcrossing/resetti hat/dan_resetti hat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/animalcrossing/resetti hat/dan_resetti hat.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/animalcrossing/resetti hat/hat_reset_color.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/animalcrossing/resetti hat/resetti.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/animalcrossing/resetti hat/resetti.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/animalcrossing/resetti hat/resetti_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/donkey kong/donkey kong/dan_donkey kong.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/donkey kong/donkey kong/dan_donkey kong.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/donkey kong/donkey kong/donkey kong_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/donkey kong/donkey kong/donkeykong.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/donkey kong/donkey kong/donkeykong.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/donkey kong/donkey kong/donkeykong.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/donkey kong/krool/dan_krool.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/donkey kong/krool/dan_krool.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/donkey kong/krool/krool.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/donkey kong/krool/krool_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/donkey kong/krool/krool_png.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/donkey kong/krool/krool_png.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/earthbound/mr. saturn hat/dan_mr. saturn hat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/earthbound/mr. saturn hat/dan_mr. saturn hat.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/earthbound/mr. saturn hat/mr saturn.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/earthbound/mr. saturn hat/mr_saturn.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/earthbound/mr. saturn hat/mr_saturn.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/earthbound/mr. saturn hat/saturn_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/earthbound/ness/dan_ness.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/earthbound/ness/danness.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/earthbound/ness/ness.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/earthbound/ness/ness.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/earthbound/ness/ness.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/earthbound/ness/ness_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/dedede hat/dan_dedede hat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/dedede hat/dan_dedede hat.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/dedede hat/dedede.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/dedede hat/dedede.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/dedede hat/dedede_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/dedede hat/hat_dedede_color.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/kirby/dan_kirby.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/kirby/dan_kirby.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/kirby/hat_kirby_color.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/kirby/kirby hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/kirby/kirby hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/kirby/kriby hat icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/marx/dan_marx.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/marx/dan_marx.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/marx/marx.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/marx/marx.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/marx/marx.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/marx/marx_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/meta knight hat/dan_meta knight hat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/meta knight hat/dan_meta knight hat.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/meta knight hat/hat_meta_color.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/meta knight hat/metaknight.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/meta knight hat/metaknight.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/kirby/meta knight hat/metaknight_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/bomb-bomb/bomb.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/bomb-bomb/bomb.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/bomb-bomb/bomb.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/bomb-bomb/bomb_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/bomb-bomb/dan_bomb-bomb.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/bomb-bomb/dan_bomb-bomb.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/boo/boo.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/boo/boo.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/boo/boo.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/boo/boo_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/boo/dan_boo.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/boo/dan_boo.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/bowser/bowser.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/bowser/bowser.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/bowser/bowser.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/bowser/bowser_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/bowser/dan_bowser.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/bowser/dan_bowser.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/goomba hat/dan_goomba.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/goomba hat/dan_goomba.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/goomba hat/goomba.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/goomba hat/goomba.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/goomba hat/goomba_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/goomba hat/hat_kuribo_color.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/luigi/dan_luigi.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/luigi/dan_luigi.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/luigi/luigi.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/luigi/luigi.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/luigi/luigi.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/luigi/luigi_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/mario/dan_mario.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/mario/dan_mario.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/mario/mario.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/mario/mario.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/mario/mario_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/mario/mariocap_alb.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/peach hat/dan_peach.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/peach hat/dan_peach.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/peach hat/hat_peach_color.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/peach hat/peach.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/peach hat/peach.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/peach hat/peach_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/piranha plant/dan_piranha plant.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/piranha plant/dan_piranha plant.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/piranha plant/piranha plant.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/piranha plant/piranha plant.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/piranha plant/plant_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/piranha plant/skin_packun_001_col.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/question block/dan_question.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/question block/dan_question.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/question block/question block.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/question block/question.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/question block/question.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/question block/question_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/shy guy/dan_shy_guy.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/shy guy/dan_shy_guy.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/shy guy/shy guy.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/shy guy/shy_guy.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/shy guy/shy_guy.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/shy guy/shy_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/toad/dan_toad.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/toad/dan_toad.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/toad/toad.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/toad/toad.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/toad/toad.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/mario/toad/toad_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin blue/dan_pikmin blue.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin blue/dan_pikmin blue.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin blue/pikmin blue.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin blue/pikmin blue.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin blue/pikmin blue.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin blue/pikmin blue_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin red/dan_pikmin red.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin red/dan_pikmin red.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin red/pikmin red.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin red/pikmin red.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin red/pikmin red.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin red/pikmin red_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin yellow/dan_pikmin yellow.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin yellow/dan_pikmin yellow.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin yellow/pikmin yellow.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin yellow/pikmin yellow.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin yellow/pikmin yellow.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pikmin yellow/pikmin yellow_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/ash ketchum/ash.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/ash ketchum/ash.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/ash ketchum/ash.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/ash ketchum/ash_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/ash ketchum/dan_ash.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/ash ketchum/dan_ash.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/pikachu/dan_pikachu.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/pikachu/dan_pikachu.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/pikachu/pikachu.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/pikachu/pikachu.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/pikachu/pikachu.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/pikachu/pikachu_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/wooper/dan_wooper.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/wooper/dan_wooper.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/wooper/pm0194_00_00_body_a_alb.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/wooper/wooper.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/wooper/wooper.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/pokemon-------------------/wooper/wooper_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/samus/dan_samus.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/samus/dan_samus.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/samus/samus.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/samus/samus.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/samus/samus.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/samus/samus_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/splatoon hat/dan_inkling.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/splatoon hat/dan_inkling.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/splatoon hat/hat_splatoon_color.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/splatoon hat/inkling.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/splatoon hat/inkling.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/splatoon hat/splatoon_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/linkhat/dan_link.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/linkhat/dan_link.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/linkhat/link.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/linkhat/link.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/linkhat/link.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/linkhat/link_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/majoras mask/dan_majoras mask.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/majoras mask/dan_majoras mask.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/majoras mask/majoras mask icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/majoras mask/majoras mask.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/majoras mask/majoras mask.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/majoras mask/majorasmask-texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/sheik mask/dan_shiek.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/sheik mask/dan_shiek.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/sheik mask/hat_sheik_color.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/sheik mask/shiek.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/sheik mask/shiek.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/sheik mask/shiek_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/zelda/dan_zelda.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/zelda/dan_zelda.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/zelda/zelda.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/zelda/zelda.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/zelda/zelda.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/nintendo/zelda---------------------/zelda/zelda_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/pacman/dan_pacman.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/pacman/dan_pacman.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/pacman/pacman.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/pacman/pacman.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/pacman/pacman.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/pacman/pacman_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/parappa the rapper hat/dan_parappahat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/parappa the rapper hat/dan_parappahat.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/parappa the rapper hat/parappahat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/parappa the rapper hat/parappahat.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/parappa the rapper hat/parappahat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/parappa the rapper hat/parrappa_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/aigis/aigis.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/aigis/aigis.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/aigis/aigis.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/aigis/aigis_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/aigis/dan_aigis.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/aigis/dan_aigis.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/joker/dan_joker.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/joker/dnajoker.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/joker/joker.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/joker/joker.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/joker/joker.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/joker/joker_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/makoto/dan_makoto.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/makoto/dan_makoto.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/makoto/makoto.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/makoto/makoto.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/makoto/makoto.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/makoto/makoto_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/teddie/dan_teddie.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/teddie/dan_teddie.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/teddie/teddie.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/teddie/teddie.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/teddie/teddie.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/teddie/teddie_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/yu/dan_yu.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/yu/dan_yu.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/yu/yu.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/yu/yu.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/yu/yu.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/persona/yu/yu_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/potemkin/potemkin texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/potemkin/potemkin.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/potemkin/potemkin.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/potemkin/potemkin.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/potemkin/potemkin_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/potemkin/potkimkin.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/pyrmid hat/dan pyramid.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/pyrmid hat/dan pyramid.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/pyrmid hat/helmet.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/pyrmid hat/pyramid_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/pyrmid hat/pyrimid head.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/pyrmid hat/pyrimid head.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/rabbid/dan_rabbid.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/rabbid/dan_rabbid.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/rabbid/rabbid.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/rabbid/rabbid.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/rabbid/rabbid.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/rabbid/rabbid_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/robo/dan_robo.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/robo/dan_robo.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/robo/robo.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/robo/robo.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/robo/robo.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/robo/robo_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sans/dan_sans.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sans/dan_sans.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sans/sans.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sans/sans.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sans/sans.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sans/sans_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/shovel knight/dan_shovel knight.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/shovel knight/dan_shovel knight.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/shovel knight/shovel knight.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/shovel knight/shovel knight.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/shovel knight/shovel_knight_dif2.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/shovel knight/shovelknigh_icont.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/slime/dan_slime.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/slime/dan_slime.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/slime/slime.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/slime/slime.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/slime/slime.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/slime/slime_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sly cooper/dan_slycooper.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sly cooper/dan_slycooper.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sly cooper/sly_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sly cooper/slycooper.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sly cooper/slycooper.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sly cooper/soldierzombie_headprop_platforms1_d.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/snake hat/dan_snake.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/snake hat/dan_snake.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/snake hat/snake_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/snake hat/snake_texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/snake hat/snakehat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/snake hat/snakehat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/eggman/dan_eggman.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/eggman/dan_eggman.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/eggman/eggman.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/eggman/eggman.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/eggman/eggman.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/eggman/eggman_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/gamer hat/dan_gamer_hat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/gamer hat/dan_gamer_hat.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/gamer hat/gamer hat.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/gamer hat/gamer_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/gamer hat/gamer_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/gamer hat/gamer_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/shadow/dan_shadow.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/shadow/dan_shadow.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/shadow/shadow_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/shadow/shadow_textures.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/shadow/shadowhat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/sonic/dan_sonic.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/sonic/dan_sonic.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/sonic/sonic.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/sonic/sonic.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/sonic/sonic.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/sonic/sonic/sonic_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/steve/dan_steve.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/steve/dan_steve.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/steve/steve.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/steve/steve.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/steve/steve.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/steve/steve_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/travis/dan_travis.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/travis/dan_travis.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/travis/travis.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/travis/travis.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/travis/travis.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/travis/travis_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/v1/v1.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/v1/v1.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/v1/v1.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/v1/v1.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/v1/v1.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/games/v1/v1_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/chef hat/chef hat.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/chef hat/chef_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/chef hat/chef_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/chef hat/chef_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/chef hat/dan_chef hat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/chef hat/dan_chef hat.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/elf/dan_elf.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/elf/dan_elf.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/elf/elf.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/elf/elf.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/elf/elf.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/elf/elf_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/santa's hat/dan_santa.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/santa's hat/dan_santa.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/santa's hat/santa.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/santa's hat/santa.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/santa's hat/santa.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/santa's hat/santa_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/snowman/dan_snowman.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/snowman/dan_snowman.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/snowman/snowman.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/snowman/snowman.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/snowman/snowman.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/christmas/snowman/snowman_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/clown/clown.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/clown/clown.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/clown/clown.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/clown/clown_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/clown/dan_clown.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/clown/dan_clown.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/cowboy/cowboy.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/cowboy/cowboy.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/cowboy/cowboy.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/cowboy/dan_cowboy.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/cowboy/dan_cowboy.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/cowboy/t_wariogunman_body_alb.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/crown/crown.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/crown/crown.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/crown/crown.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/crown/crown_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/crown/dan_crown.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/crown/dan_crown.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/dinohat/dan_dino.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/dinohat/dan_dino.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/dinohat/dinn_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/dinohat/dinn_textures.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/dinohat/dinnhat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/eyeball/cyclopsgiant_spec.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/eyeball/dan_eyeball.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/eyeball/dan_eyeball.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/eyeball/eye_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/eyeball/eyeball.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/eyeball/eyeball.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/frog head/dan_frog.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/frog head/dan_frog.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/frog head/frog.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/frog head/frog.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/frog head/frog.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/frog head/frog_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/job application/dan_job application.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/job application/danjob application.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/job application/job application.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/job application/job application.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/job application/paper.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/job application/paper_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/paperbag/dan_paperbag.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/paperbag/dan_paperbag.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/paperbag/paper_bag.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/paperbag/paper_bag.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/paperbag/paperbag.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/paperbag/paperbag_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/pbj/dan_pbj.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/pbj/dan_pbj.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/pbj/pbj.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/pbj/pbj.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/pbj/pbj.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/pbj/pbj_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/rubics cube/dan_rubics cube.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/rubics cube/dan_rubics cube.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/rubics cube/rubics cube.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/rubics cube/rubics cube.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/rubics cube/rubix cube.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/rubics cube/rubix_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/strawberry hood/dan_strawberry.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/strawberry hood/dan_strawberry.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/strawberry hood/strawberry.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/strawberry hood/strawberry.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/strawberry hood/strawberry.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/strawberry hood/strawberry_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/sunflowers/dan_flower_icon.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/sunflowers/danflower_icon.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/sunflowers/flower_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/sunflowers/sunflower.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/sunflowers/sunflower.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/sunflowers/sunflower.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/swan/dan_swan.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/swan/dan_swan.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/swan/swan.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/swan/swan.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/swan/swan.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/swan/swan_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/tardis/79797c43.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/tardis/dan_tardis.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/tardis/dan_tardis.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/tardis/tardis.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/tardis/tardis.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/tardis/tardis_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/toilet/toileat.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/toilet/toilet.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/toilet/toilet.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/toilet/toilet.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/toilet/toilet.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/toilet/toilet.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/viking hat/dan_viking.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/viking hat/dan_viking.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/viking hat/viking.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/viking hat/viking.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/viking hat/viking.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/viking hat/viking_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/vr headset/dan_vr headset.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/vr headset/dan_vr headset.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/vr headset/vr headset.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/vr headset/vr_headset.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/vr headset/vr_headset.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/vr headset/vr_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/watermelon/dan_watermelon.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/watermelon/dan_watermelon.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/watermelon/watermelon.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/watermelon/watermelon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/watermelon/watermelon.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/watermelon/watermelon_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/witch hat/dan_witch.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/witch hat/danwitch.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/witch hat/witch hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/witch hat/witch hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/witch hat/witch.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/misc/witch hat/witch_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/dan/daan_hair.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/dan/hair.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/dan/hair.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/dan/hair_base_texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/dan/hair_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/dan/hair_material.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/karma/arial.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/karma/karma .fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/karma/karma icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/karma/karma.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/karma/karma.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/karma/karma.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/taffy/taaffy_hat.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/taffy/taffy_hat.fbx
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/taffy/taffy_hat.prefab
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/taffy/taffy_icon.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/taffy/taffy_material.mat
+[Info   :MoreCustomizations] - assets/too many hats holy moly/hats/zdan/taffy/taffy_texture.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/mouths/brook mouth.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/mouths/chopper mouth.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/mouths/dan_brook mouth.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/mouths/dan_chopper mouth.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/mouths/dan_jimbe mouht.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/mouths/dan_luffy mouth.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/mouths/dan_sanji mouth.asset
+[Info   :MoreCustomizations] - assets/too many hats holy moly/mouths/jimbe mouth.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/mouths/luffy mouth.png
+[Info   :MoreCustomizations] - assets/too many hats holy moly/mouths/sanji mouth.png
+[Info   :MoreCustomizations] Asset bundle 'built-in' loaded! (\MoreCustomizations\built-in.pcab)
+[Info   :MoreCustomizations] Catalog list :
+[Info   :MoreCustomizations] - assets/built-in/accessories/ac_nose.asset
+[Info   :MoreCustomizations] - assets/built-in/accessories/ac_nose.png
+[Info   :MoreCustomizations] - assets/built-in/accessories/beard.asset
+[Info   :MoreCustomizations] - assets/built-in/accessories/beard.png
+[Info   :MoreCustomizations] - assets/built-in/eyes/ac_eye.asset
+[Info   :MoreCustomizations] - assets/built-in/eyes/ac_eye.png
+[Info   :MoreCustomizations] - assets/built-in/eyes/goat_eye.asset
+[Info   :MoreCustomizations] - assets/built-in/eyes/goat_eye.png
+[Info   :MoreCustomizations] - assets/built-in/eyes/incisive_eye.asset
+[Info   :MoreCustomizations] - assets/built-in/eyes/incisive_eye.png
+[Info   :MoreCustomizations] - assets/built-in/hats/horn.asset
+[Info   :MoreCustomizations] - assets/built-in/hats/horn_base_texture.png
+[Info   :MoreCustomizations] - assets/built-in/hats/horn_icon.png
+[Info   :MoreCustomizations] - assets/built-in/hats/horn_prefab.fbx
+[Info   :MoreCustomizations] Loading 195 customizations...
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_brookscar'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_chopper'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_frankyglasses'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_jimbe scar'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_luffy scar'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_sanji bros'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_zoro eye'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Ichigo'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_urahaa'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_broly'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_CELL'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_cooler'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_frieza'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_goku'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_ssj'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_piccalo'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_saiyaman'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_veta'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_miku'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_teto'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Dio Brando'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_JOSUKE'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Jotaro'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_kakyoin'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_polnareff'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_The world'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_KIRA'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_AQUA'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_megumin'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_All Might'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_bakago'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_hokage'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_kakashi'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_kurama'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Might Guy'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Minato'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Naruto'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Pain'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_sakura'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_sasuke'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_LUFY'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_G5'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_ZORO'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_NAMI'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_USOPP'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_SANJI'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Chopper'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_ROBIN'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Franky'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Brook'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_J'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_LAW'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_saw'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Dimple'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_elric'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_guts'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_inosuke'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_kamina glasses'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Kaneki'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_yugi'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_BMO'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_finn'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Ice King'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_bat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_glep'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_op'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_pop'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_cartman'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_kenny'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_kyle'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Stan'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_SPIDER'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Drinking Hat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Krusty Krab Hat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_spongebob'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_DART'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_STORM'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_WANDER'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_aiai'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_awku'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_amigo'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_beat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_billyhatcher'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_bomberman'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_cloud'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_cupehead'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_DOOM'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Freddy Fazbear'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_handsomejack'!
+[Info   :MoreCustomizations] Loaded '-1083245072_hollow'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_homid'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_issac'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_king'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_prince'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Master Chief'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_MegaMan'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_proto'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_zero'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_monokuma'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_nights'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Niko'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_ninjamask'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Isabelle Hat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Resetti Hat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Donkey Kong'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Krool'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Mr. Saturn Hat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DANNess'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Dedede Hat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_kirby'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_marx'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Meta Knight Hat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_bomb-bomb'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Boo'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_bowser'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_goomba'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Luigi'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_mario'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_peach'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_piranha plant'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_question'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_shy_guy'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_toad'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_pikmin blue'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_pikmin red'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_pikmin yellow'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Ash'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_pikachu'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_wooper'!
+[Info   :MoreCustomizations] Loaded '-1083245072_dAN_samus'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_inkling'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_link'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_majoras mask'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_shiek'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_zelda'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Pacman'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_parappahat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_aigis'!
+[Info   :MoreCustomizations] Loaded '-1083245072_dNAjoker'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_makoto'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_teddie'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Yu'!
+[Info   :MoreCustomizations] Loaded '-1083245072_potemkin'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN pyramid'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_rabbid'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_robo'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_sans'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_shovel knight'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_slime'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_slycooper'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_snake'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_eggman'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_gamer_hat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_shadow'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Sonic'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_steve'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_travis'!
+[Info   :MoreCustomizations] Loaded '-1083245072_V1'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_chef hat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_elf'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Santa'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_snowman'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_clown'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_cowboy'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_crown'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_dino'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_eyeball'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Frog'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_JOB APPLICATION'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_paperbag'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_pbj'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_rubics cube'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_strawberry'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_flower_Icon'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Swan'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_tardis'!
+[Info   :MoreCustomizations] Loaded '-1083245072_toilet'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_viking'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_vr headset'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_watermelon'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_witch'!
+[Info   :MoreCustomizations] Loaded '-1083245072_daan_hair'!
+[Info   :MoreCustomizations] Loaded '-1083245072_karma'!
+[Info   :MoreCustomizations] Loaded '-1083245072_taaffy_hat'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_Brook mouth'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_chopper mouth'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_jimbe mouht'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_luffy mouth'!
+[Info   :MoreCustomizations] Loaded '-1083245072_DAN_sanji mouth'!
+[Info   :MoreCustomizations] Loaded '-1773932315_ac_nose'!
+[Info   :MoreCustomizations] Loaded '-1773932315_beard'!
+[Info   :MoreCustomizations] Loaded '-1773932315_ac_eye'!
+[Info   :MoreCustomizations] Loaded '-1773932315_goat_eye'!
+[Info   :MoreCustomizations] Loaded '-1773932315_incisive_eye'!
+[Info   :MoreCustomizations] Loaded '-1773932315_horn'!
+[Info   :MoreCustomizations] Done!
+[Info   :MoreCustomizations] Patching methods...
+[Info   :MoreCustomizations] MoreCustomizations is loaded!
+[Info   :   BepInEx] Loading [PEAKUnlimited 3.6.7]
+[Info   :PEAKUnlimited] Plugin PEAKUnlimited is loaded!
+[Info   :PEAKUnlimited] ConfigurationHandler initialising
+[Info   :PEAKUnlimited] ConfigurationHandler: Max Players Loaded: 20
+[Info   :PEAKUnlimited] ConfigurationHandler: Lock Kiosk enabled: False
+[Info   :PEAKUnlimited] ConfigurationHandler: Lobby details enabled: True
+[Info   :PEAKUnlimited] ConfigurationHandler: Extra marshmallows enabled: True
+[Info   :PEAKUnlimited] ConfigurationHandler: Hot dog chance set to: 0.375
+[Info   :PEAKUnlimited] ConfigurationHandler: Extra backpacks enabled: True
+[Info   :PEAKUnlimited] ConfigurationHandler: Log Types Enabled: MarshmallowLogic, CampfireLogic, BackpackLogic, NetworkingLogic, PatchingLogic, EndScreenLogic
+[Info   :PEAKUnlimited] ConfigurationHandler: Late Marshmallows enabled: True
+[Info   :PEAKUnlimited] ConfigurationHandler: Cheat Marshmallows set to: 0
+[Info   :PEAKUnlimited] ConfigurationHandler: Config Menu Key: <Keyboard>/f2
+[Info   :PEAKUnlimited] ConfigurationHandler: Cheat Backpacks set to: 0
+[Info   :PEAKUnlimited] ConfigurationHandler initialised
+[Info   :   Console] Invalid enum name: 
+[Info   :   BepInEx] Loading [PassportPagination 1.0.0]
+[Message:   BepInEx] Chainloader startup complete
+[Info   :   Everest] Compute Shader prefab loaded: True
+[Info   :   Everest] Loading skeleton prefab...
+[Info   :   Everest] Skeleton prefab loaded: True
+[Info   :   Everest] Initializing Accessory Manager...
+[Info   :PeakStranding] Initializing Toast Controller...
+[Info   :PeakStranding] Toast Controller Initialized!
+[Info   :   Everest] Initializing Toast Controller...
+[Info   :   Everest] Toast Controller Initialized!
+[Info   :   Everest] AccessoryManager initialized in 13428 ms with 5 accessories loaded.
+[Info   :   Everest] Initializing Tombstone Handler...
+[Info   :   Everest] Tombstone prefab loaded: True
+[Info   :   Everest] TombstoneHandler initialized in 38 ms.
+[Info   :   Everest] Everest Initialized in 20.128 seconds.
+[Info   :   Everest] Retrieving server status...
+[Info   :MoreAscents] Initted
+[Info   :PeakStranding] Experimental Rope Optimizer enabled! Enjoy the performance boost. Looking forward to your feedback!
+[Info   :   Everest] Everest Server Status: online
+[Info   :   Everest] Message of the Day: All systems green!
+[Info   :PeakClassMod] [ClassMod] Hat changed to index: 140, name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] All classes deactivated!
+[Info   :PeakStranding] New run started as a HOST. Caching structures.
+[Info   :PeakStranding] Caching local structures is disabled, skipping.
+[Info   :PeakStranding] Remote structures disabled or in Airport. Spawning initial local structures.
+[Info   :PeakStranding] Fetching global stats from remote
+[Info   :PeakStranding] Fetching user stats from remote
+[Info   :PeakStranding] No cached structures to spawn for segment 0.
+[Info   :PeakStranding] Your stats: 0 structures uploaded (last 24h: 0), 0 likes received, 0 likes sent.
+[Info   :PeakStranding] Global stats: 21012 unique players all-time, 669127 structures uploaded (last 24h: 1813 from 150 players), 751773 likes given. Server version 0.4.0.
+[Info   :PeakClassMod] [ClassMod] Checking for Medic class characters...
+[Info   :PeakClassMod] [ClassMod] All players have characters loaded!
+[Info   :PeakClassMod] [ClassMod] Checking character via PlayerList: IPlayRoblox (IsLocal: True)
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox hat index: 140
+[Info   :PeakClassMod] [ClassMod] Hat name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox hat index: 140
+[Info   :PeakClassMod] [ClassMod] Hat name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox hat index: 140
+[Info   :PeakClassMod] [ClassMod] Hat name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox is NOT Medic, Tech-Priest, Mushroomancer, or Rogue class
+[Info   :PeakClassMod] [ClassMod] Character.AllCharacters count: 1
+[Info   :PeakClassMod] [ClassMod] Checking character via AllCharacters: IPlayRoblox (IsLocal: True)
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox hat index: 140
+[Info   :PeakClassMod] [ClassMod] Hat name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox hat index: 140
+[Info   :PeakClassMod] [ClassMod] Hat name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox hat index: 140
+[Info   :PeakClassMod] [ClassMod] Hat name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox is NOT Medic, Tech-Priest, Mushroomancer, or Rogue class (AllCharacters)
+[Info   :MoreAscents] Ascents capped 16
+[Info   :MoreAscents] Ascents capped 16
+[Info   :   Everest] Game scene loaded. Spawning Skeleton Manager...
+[Info   :   Everest] Spawning Skeleton UI Controller...
+[Info   :   Everest] Initializing Skeleton UI Controller...
+[Info   :   Everest] Skeleton UI Controller Initialized!
+[Info   :   Everest] Initializing Tombstone...
+[Info   :   Everest] Retrieving daily count...
+[Info   :PEAKUnlimited] Setting lobby member limit to 20
+[Info   :PeakStranding] Experimental Rope Optimizer enabled! Enjoy the performance boost. Looking forward to your feedback!
+[Info   :   Everest] Waiting to establish connection to room...
+[Info   :   Everest] Connection established as Host.
+[Info   :   Everest] Retrieving skeleton data as host...
+[Info   :   Everest] Retrieving skeletons by map ID...
+[Info   :   Everest] Today's death tally: 1,944
+[Info   :   Everest] Today's date: January 17, 2026
+[Info   :   Everest] Tombstone Initialized!
+[Info   :   Everest] Syncing server response identifier: 7635fcc5-bd2f-4b42-9382-57e43c813129
+[Info   :   Everest] Received 100 skeletons.
+[Info   :PeakStranding] New run started as a HOST. Caching structures.
+[Info   :PeakStranding] Caching local structures is disabled, skipping.
+[Info   :PeakStranding] Fetching and caching remote structures from server.
+[Info   :PeakStranding] Fetching structures from remote: https://peakstranding.burning.homes/api/v1/structures?scene=Level_7&map_id=217&limit=40
+[Info   :PeakStranding] Received 40 online structures from 33 users for map_id 217
+[Info   :PeakStranding] Initial caching complete. Spawning structures for segment 0.
+[Info   :PeakStranding] Spawning 15 structures for segment 0.
+[Info   :PeakClassMod] [ClassMod] Checking for Medic class characters...
+[Info   :PeakClassMod] [ClassMod] All players have characters loaded!
+[Info   :PeakClassMod] [ClassMod] Checking character via PlayerList: IPlayRoblox (IsLocal: True)
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox hat index: 140
+[Info   :PeakClassMod] [ClassMod] Hat name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox hat index: 140
+[Info   :PeakClassMod] [ClassMod] Hat name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox hat index: 140
+[Info   :PeakClassMod] [ClassMod] Hat name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox is NOT Medic, Tech-Priest, Mushroomancer, or Rogue class
+[Info   :PeakClassMod] [ClassMod] Character.AllCharacters count: 1
+[Info   :PeakClassMod] [ClassMod] Checking character via AllCharacters: IPlayRoblox (IsLocal: True)
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox hat index: 140
+[Info   :PeakClassMod] [ClassMod] Hat name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox hat index: 140
+[Info   :PeakClassMod] [ClassMod] Hat name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox hat index: 140
+[Info   :PeakClassMod] [ClassMod] Hat name: -1083245072_DAN_Meta Knight Hat
+[Info   :PeakClassMod] [ClassMod] Character IPlayRoblox is NOT Medic, Tech-Priest, Mushroomancer, or Rogue class (AllCharacters)

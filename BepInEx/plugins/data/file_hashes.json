@@ -1,0 +1,621 @@
+{
+  "Version": 1,
+  "AlgorithmVersion": 1,
+  "Hashes": {
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Acid Souljah - Off The Yae.ogg": {
+      "hash": "Nt52BaB+RN6t",
+      "lastModified": "2026-01-18T02:48:12.7225202Z",
+      "size": 1809070
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Aisha - Love the Subhuman Self.ogg": {
+      "hash": "HYGbP4I4UuG4",
+      "lastModified": "2026-01-18T02:48:12.7550259Z",
+      "size": 4273264
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Aisha - The Disaster of Passion.ogg": {
+      "hash": "q1bi3UsiE+Sv",
+      "lastModified": "2026-01-18T02:48:12.7790259Z",
+      "size": 3229799
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Akaseakari - koi no yukue.ogg": {
+      "hash": "CPeciyZExI+K",
+      "lastModified": "2026-01-18T02:48:12.8040263Z",
+      "size": 3079874
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Alex G - 16 Mirrors.ogg": {
+      "hash": "ye1ABGnsTtlJ",
+      "lastModified": "2026-01-18T02:48:12.8150282Z",
+      "size": 1153236
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Alex G - Harvey.ogg": {
+      "hash": "fRfw+DmAq3kc",
+      "lastModified": "2026-01-18T02:48:12.8270278Z",
+      "size": 1426149
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Alex G - Sarah.ogg": {
+      "hash": "hRXCqkvmVWti",
+      "lastModified": "2026-01-18T02:48:12.8465334Z",
+      "size": 2427463
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Alex G - Things to Do.ogg": {
+      "hash": "K3Vzw9WheBxf",
+      "lastModified": "2026-01-18T02:48:12.864534Z",
+      "size": 2217050
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Aligns - Friday Night Fire Fight.ogg": {
+      "hash": "79kwVnu5n85H",
+      "lastModified": "2026-01-18T02:48:12.885534Z",
+      "size": 2834260
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Anri - Kanashimi ga Tomaranai I CANT STOP THE LONELINESS.ogg": {
+      "hash": "CbO1jEFGmi+t",
+      "lastModified": "2026-01-18T02:48:12.9145358Z",
+      "size": 3844590
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Buck Owens - Made In Japan.ogg": {
+      "hash": "bxyqID/IOZW0",
+      "lastModified": "2026-01-18T02:48:12.9340419Z",
+      "size": 2315248
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Carpenters - (They Long To Be) Close To You.ogg": {
+      "hash": "yRw+NxeCBusG",
+      "lastModified": "2026-01-18T02:48:12.9620419Z",
+      "size": 3521403
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/cinnamons - summertime.ogg": {
+      "hash": "u/c5xgnTDu1N",
+      "lastModified": "2026-01-18T02:48:12.9910419Z",
+      "size": 3617930
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Creepy Nuts - Daten.ogg": {
+      "hash": "mgv9q/ElVWzE",
+      "lastModified": "2026-01-18T02:48:13.0090423Z",
+      "size": 2286433
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Crustsox - BRAINSOUP!.ogg": {
+      "hash": "L3eXkDnxNRqN",
+      "lastModified": "2026-01-18T02:48:13.0220442Z",
+      "size": 1527617
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Crustsox - Out for Blood.ogg": {
+      "hash": "BOc6ZQgPu4/i",
+      "lastModified": "2026-01-18T02:48:13.0405508Z",
+      "size": 2377403
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Crustsox - YELLER.ogg": {
+      "hash": "2Tnri0aLq4+7",
+      "lastModified": "2026-01-18T02:48:13.0585501Z",
+      "size": 2244357
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Dazey and the Scouts - Wet.ogg": {
+      "hash": "u4pC5d0VmPFc",
+      "lastModified": "2026-01-18T02:48:13.0765501Z",
+      "size": 2386713
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Devi McCallion - I Want Things to Be Beautiful.ogg": {
+      "hash": "TPiNzfmq5XY/",
+      "lastModified": "2026-01-18T02:48:13.0885501Z",
+      "size": 1479446
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Dialogue+ - Deneb and Spica.ogg": {
+      "hash": "+6g23UJ6EHJ7",
+      "lastModified": "2026-01-18T02:48:13.1155553Z",
+      "size": 3669005
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Dialogue+ - Jinsei Easy_.ogg": {
+      "hash": "+phF6V5relCq",
+      "lastModified": "2026-01-18T02:48:13.1580594Z",
+      "size": 5853176
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Dialogue+ - Private.ogg": {
+      "hash": "RO92QrybUNpZ",
+      "lastModified": "2026-01-18T02:48:13.2020595Z",
+      "size": 6015018
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Duster - Me and the Birds.ogg": {
+      "hash": "8JcO91Z53PAs",
+      "lastModified": "2026-01-18T02:48:13.2140621Z",
+      "size": 1215326
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/EHAMIC - Koinu no Carnival -From _Minute Waltz_-.ogg": {
+      "hash": "polljhYzbeM9",
+      "lastModified": "2026-01-18T02:48:13.247568Z",
+      "size": 4898846
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Enjambre - Impacto.ogg": {
+      "hash": "ihBJi8L4O94r",
+      "lastModified": "2026-01-18T02:48:13.270568Z",
+      "size": 3193489
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Frank Sinatra - Somethin' Stupid (2008 Remastered).ogg": {
+      "hash": "9NT4RMfTzAog",
+      "lastModified": "2026-01-18T02:48:13.2895696Z",
+      "size": 2306096
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Grace Phipps - Falling for Ya (From _Teen Beach Movie_-Soundtrack Version).ogg": {
+      "hash": "RHhVfNEDKQTw",
+      "lastModified": "2026-01-18T02:48:13.3095681Z",
+      "size": 2546130
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/halca - DareKareScramble.ogg": {
+      "hash": "QqYXenSdmUrA",
+      "lastModified": "2026-01-18T02:48:13.3360794Z",
+      "size": 3640233
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/HOYO-MiX - pinKing.ogg": {
+      "hash": "7mKNJo/nkm9U",
+      "lastModified": "2026-01-18T02:48:13.3570781Z",
+      "size": 2630602
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Inaba Cumori - Lost Umbrella.ogg": {
+      "hash": "93oD8IoARSE1",
+      "lastModified": "2026-01-18T02:48:13.3790778Z",
+      "size": 2916337
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Intel Kazim - Motteke! Sailor Fuku.ogg": {
+      "hash": "oesoINksFtml",
+      "lastModified": "2026-01-18T02:48:13.4070772Z",
+      "size": 3222052
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Jamie Paige - Machine Love.ogg": {
+      "hash": "3cQeRhj+To4w",
+      "lastModified": "2026-01-18T02:48:13.43159Z",
+      "size": 2906951
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Johnny Cash - Folsom Prison Blues.ogg": {
+      "hash": "RPEN8WUtIwNN",
+      "lastModified": "2026-01-18T02:48:13.4495887Z",
+      "size": 1706456
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Junko Ohashi - Telephone Number.ogg": {
+      "hash": "a9zKK+K+ZykK",
+      "lastModified": "2026-01-18T02:48:13.4795883Z",
+      "size": 3502499
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/KANA-BOON - Song of the Dead.ogg": {
+      "hash": "VMMT8BD7By6n",
+      "lastModified": "2026-01-18T02:48:13.5005889Z",
+      "size": 2619438
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Katy Perry - Hot N Cold.ogg": {
+      "hash": "El59xa9bYyyK",
+      "lastModified": "2026-01-18T02:48:13.524591Z",
+      "size": 2952980
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Kenshi Yonezu - IRIS OUT.ogg": {
+      "hash": "UXW0sU9rSi89",
+      "lastModified": "2026-01-18T02:48:13.5430961Z",
+      "size": 2162025
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Kiichi - virgo.ogg": {
+      "hash": "gXc083NUuz8g",
+      "lastModified": "2026-01-18T02:48:13.5680962Z",
+      "size": 3240434
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/kikuo - Dance of corpse.ogg": {
+      "hash": "FyyddNqXIioO",
+      "lastModified": "2026-01-18T02:48:13.5920965Z",
+      "size": 3181058
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/kikuo - Love me, Love me, Love me.ogg": {
+      "hash": "A+XkbH4nAGTE",
+      "lastModified": "2026-01-18T02:48:13.6251008Z",
+      "size": 3564482
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Korea Girl - Reunion.ogg": {
+      "hash": "XxnzyQB1NCYZ",
+      "lastModified": "2026-01-18T02:48:13.6516062Z",
+      "size": 3076200
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/KulfiQ - Doubleganger-Hatsune Miku Magical Mirai 10th Anniversary [Live].ogg": {
+      "hash": "EdatGro9dZ5W",
+      "lastModified": "2026-01-18T02:48:13.6766057Z",
+      "size": 3010652
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Lesley Gore - Misty.ogg": {
+      "hash": "4l03xgU/M1KF",
+      "lastModified": "2026-01-18T02:48:13.6936064Z",
+      "size": 1890898
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Los Retros - Someone To Spend Time With.ogg": {
+      "hash": "zjynSZlMs3Y7",
+      "lastModified": "2026-01-18T02:48:13.7106063Z",
+      "size": 1933116
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Lotus-Juice-It_s-Going-Down-Now.ogg": {
+      "hash": "QvnTkaDMiMr7",
+      "lastModified": "2026-01-18T02:48:13.7301155Z",
+      "size": 2468343
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Lou Bega - Mambo No. 5 (a Little Bit of...).ogg": {
+      "hash": "P7ZiW2yzikZg",
+      "lastModified": "2026-01-18T02:48:13.7541157Z",
+      "size": 3018260
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Lyn Inaizumi - Last Surprise.ogg": {
+      "hash": "5RBPGRYDM+SI",
+      "lastModified": "2026-01-18T02:48:13.7791155Z",
+      "size": 3322672
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Mac Demarco - No Other Heart.ogg": {
+      "hash": "x1TYpgfMQJoT",
+      "lastModified": "2026-01-18T02:48:13.7991153Z",
+      "size": 2207053
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/MAC MILLER - Small Worlds.ogg": {
+      "hash": "7elKogbVJhph",
+      "lastModified": "2026-01-18T02:48:13.8296259Z",
+      "size": 3575634
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Machico - Tomorrow.ogg": {
+      "hash": "nwrKxpTpok87",
+      "lastModified": "2026-01-18T02:48:13.8586246Z",
+      "size": 3900757
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Marina - Primadonna.ogg": {
+      "hash": "NsP/izua7wVk",
+      "lastModified": "2026-01-18T02:48:13.8836259Z",
+      "size": 2975584
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Maximum The Hormone - ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero.ogg": {
+      "hash": "qTtFy+nbQNkU",
+      "lastModified": "2026-01-18T02:48:13.9036251Z",
+      "size": 2530189
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Maximum The Hormone - Whats up, people_!.ogg": {
+      "hash": "6pmr1nmI3o2Y",
+      "lastModified": "2026-01-18T02:48:13.9291302Z",
+      "size": 3394683
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Meiko Nakahara - Fantasy.ogg": {
+      "hash": "MyZxgjEiYNoA",
+      "lastModified": "2026-01-18T02:48:13.959133Z",
+      "size": 3782709
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Merm4id - High tension BPM.ogg": {
+      "hash": "NlnFIeDTSqgF",
+      "lastModified": "2026-01-18T02:48:13.9921331Z",
+      "size": 4302032
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Merm4id - OMG.ogg": {
+      "hash": "a1tr79Zh7xv2",
+      "lastModified": "2026-01-18T02:48:14.0241373Z",
+      "size": 4152293
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Miku Ito - Shocking Blue.ogg": {
+      "hash": "VXNP6XlSL7J0",
+      "lastModified": "2026-01-18T02:48:14.0506422Z",
+      "size": 3263813
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Mitchie M - Age Age Again.ogg": {
+      "hash": "J6rn96jKbkWC",
+      "lastModified": "2026-01-18T02:48:14.0746426Z",
+      "size": 3090411
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Mitchie M - Freely Tomorrow.ogg": {
+      "hash": "5RVBPQaH3GW1",
+      "lastModified": "2026-01-18T02:48:14.1016421Z",
+      "size": 3441070
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Modern Baseball - Re-Do.ogg": {
+      "hash": "kts7+Lz4/Ke5",
+      "lastModified": "2026-01-18T02:48:14.1166442Z",
+      "size": 1792488
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Mommy Long Legs - Weird Girl.ogg": {
+      "hash": "XKchRhfp1KNS",
+      "lastModified": "2026-01-18T02:48:14.1321511Z",
+      "size": 1834512
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/MONOGATARI Series - Happy Bite.ogg": {
+      "hash": "RYOU2T4x1CmH",
+      "lastModified": "2026-01-18T02:48:14.1581497Z",
+      "size": 3423067
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/MONOGATARI Series - Kaerimichi.ogg": {
+      "hash": "gpYMfkyx/C34",
+      "lastModified": "2026-01-18T02:48:14.1841504Z",
+      "size": 3254078
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/MONOGATARI Series - Renai Circulation.ogg": {
+      "hash": "KzHO1jofbwZv",
+      "lastModified": "2026-01-18T02:48:14.2121495Z",
+      "size": 3390942
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/MONOGATARI-Series-Platinum-Disco.ogg": {
+      "hash": "KuAJlIB4FcPp",
+      "lastModified": "2026-01-18T02:48:14.2386581Z",
+      "size": 3442332
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Nana Mizuki - COSMIC LOVE.ogg": {
+      "hash": "6yuPYGYrfoia",
+      "lastModified": "2026-01-18T02:48:14.2666592Z",
+      "size": 3660311
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Nana Mizuki - DISCOTHEQUE.ogg": {
+      "hash": "Rjf/CE1sBiHO",
+      "lastModified": "2026-01-18T02:48:14.2916583Z",
+      "size": 3178872
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/NAOKI - Drift.ogg": {
+      "hash": "lMWczLqhKVCq",
+      "lastModified": "2026-01-18T02:48:14.328662Z",
+      "size": 4727363
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/NAOKI - Hellfire.ogg": {
+      "hash": "06Ptj9cK2DuE",
+      "lastModified": "2026-01-18T02:48:14.3561675Z",
+      "size": 3675153
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/NAOKI - Ups and Downs.ogg": {
+      "hash": "Mxdywpe0AWdF",
+      "lastModified": "2026-01-18T02:48:14.3801674Z",
+      "size": 2945131
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Neon-Trees-Everybody-Talks.ogg": {
+      "hash": "UpXVSK98/rzS",
+      "lastModified": "2026-01-18T02:48:14.4001687Z",
+      "size": 2430181
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/OMGkawaiiAngel - Cubibibibism.ogg": {
+      "hash": "TsT07VFfVyPX",
+      "lastModified": "2026-01-18T02:48:14.42317Z",
+      "size": 3033842
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Outkast - Hey Ya!.ogg": {
+      "hash": "xPlF1KgLeE1c",
+      "lastModified": "2026-01-18T02:48:14.449678Z",
+      "size": 3342035
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Paramore - Still into You.ogg": {
+      "hash": "IZ8L2qOQT8h5",
+      "lastModified": "2026-01-18T02:48:14.4716772Z",
+      "size": 2875626
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Pixies - Where Is My Mind_.ogg": {
+      "hash": "jXcakMcrQEoG",
+      "lastModified": "2026-01-18T02:48:14.4966766Z",
+      "size": 3299060
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/PUZZLE - Loose Cannon.ogg": {
+      "hash": "WYQxnlyCrMh3",
+      "lastModified": "2026-01-18T02:48:14.5156789Z",
+      "size": 2213908
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Queen - Dont Stop Me Now (Remastered 2011).ogg": {
+      "hash": "maBcarbNE/K2",
+      "lastModified": "2026-01-18T02:48:14.5361848Z",
+      "size": 2792006
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Radiohead - Creep.ogg": {
+      "hash": "7IEeCKFavV5P",
+      "lastModified": "2026-01-18T02:48:14.564185Z",
+      "size": 3426729
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Radiohead - Fake Plastic Trees.ogg": {
+      "hash": "T5iMO4psXo8R",
+      "lastModified": "2026-01-18T02:48:14.5961848Z",
+      "size": 3891374
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Radiohead - Let Down.ogg": {
+      "hash": "ABH30dYFa9NF",
+      "lastModified": "2026-01-18T02:48:14.6326943Z",
+      "size": 4529648
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Radiohead - No Surprises.ogg": {
+      "hash": "AXlsdSVk1/Ww",
+      "lastModified": "2026-01-18T02:48:14.6606947Z",
+      "size": 3332505
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Round-Table-Let-Me-Be-With-You.ogg": {
+      "hash": "zT7ieVU0D/gX",
+      "lastModified": "2026-01-18T02:48:14.9117114Z",
+      "size": 3776356
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Roy Bee - Kiss Me Again (Radio Edit).ogg": {
+      "hash": "KR4tvMvcg5m0",
+      "lastModified": "2026-01-18T02:48:14.9302182Z",
+      "size": 2321196
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Serani-Poji-where-is-smiley_.ogg": {
+      "hash": "yc3gIxCtoNrV",
+      "lastModified": "2026-01-18T02:48:15.2092365Z",
+      "size": 3913485
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Sheena Ringo - A Double Suicide.ogg": {
+      "hash": "IN09qJeR4ri0",
+      "lastModified": "2026-01-18T02:48:15.2307449Z",
+      "size": 2706341
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Sheena Ringo - Ma Vie, Mes Rêves.ogg": {
+      "hash": "01T+SGUD3nxh",
+      "lastModified": "2026-01-18T02:48:15.2537462Z",
+      "size": 2655313
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Shuka Saito - Papapa.ogg": {
+      "hash": "oqsgUMNJNI3f",
+      "lastModified": "2026-01-18T02:48:15.2797445Z",
+      "size": 3518169
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Sidney-Gish-Impostor-Syndrome.ogg": {
+      "hash": "cFbsE9cVH+DH",
+      "lastModified": "2026-01-18T02:48:15.3097446Z",
+      "size": 3814044
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Slowdive - When the Sun Hits.ogg": {
+      "hash": "DbfUtgbNSIAv",
+      "lastModified": "2026-01-18T02:48:15.3392525Z",
+      "size": 3879365
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/sniper2004 - rifle crew.ogg": {
+      "hash": "sXdl2syiMGx9",
+      "lastModified": "2026-01-18T02:48:15.3522531Z",
+      "size": 1720047
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/sniper2004 - sniper gonna fuk.ogg": {
+      "hash": "Snm6c2fvLohy",
+      "lastModified": "2026-01-18T02:48:15.369254Z",
+      "size": 1748170
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Spica - Make debut! (2021 Remastered Version).ogg": {
+      "hash": "6rXKOmmPXqB7",
+      "lastModified": "2026-01-18T02:48:15.4022526Z",
+      "size": 4259116
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Spira Spica - Sun Sun Days.ogg": {
+      "hash": "i3n0KmVSS/db",
+      "lastModified": "2026-01-18T02:48:15.4262551Z",
+      "size": 3122508
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/StylipS - STUDYxSTUDY.ogg": {
+      "hash": "4X6nHfQ0y6Py",
+      "lastModified": "2026-01-18T02:48:15.4517624Z",
+      "size": 3326909
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Sān-Z - Original Me.ogg": {
+      "hash": "sH3qU3PG/hGj",
+      "lastModified": "2026-01-18T02:48:14.9542185Z",
+      "size": 3230502
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/takaokamizuki - Ochame Kinou (feat. KASANE TETO) [Cover].ogg": {
+      "hash": "huoNCv1VIsUF",
+      "lastModified": "2026-01-18T02:48:15.4777619Z",
+      "size": 3490558
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/tendou karen - GAMERS!.ogg": {
+      "hash": "RM2pJzMQ10Av",
+      "lastModified": "2026-01-18T02:48:15.4997613Z",
+      "size": 2878402
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Cardigans - Carnival.ogg": {
+      "hash": "L4mB1/Y/abQQ",
+      "lastModified": "2026-01-18T02:48:15.5237649Z",
+      "size": 3082458
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Cardigans - Gordon's Gardenparty.ogg": {
+      "hash": "zg5P/NR2t3ea",
+      "lastModified": "2026-01-18T02:48:15.54527Z",
+      "size": 2811528
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Cardigans - Lovefool (Radio Edit).ogg": {
+      "hash": "Yw35Ca/ITjEy",
+      "lastModified": "2026-01-18T02:48:15.566269Z",
+      "size": 2548994
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Cardigans - Rise & Shine.ogg": {
+      "hash": "wrNmxLDho1Ci",
+      "lastModified": "2026-01-18T02:48:15.5902693Z",
+      "size": 2905322
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Cardigans - Step On Me.ogg": {
+      "hash": "ONkrNdZZliVP",
+      "lastModified": "2026-01-18T02:48:15.6152718Z",
+      "size": 2945387
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Cure - Boys Don't Cry.ogg": {
+      "hash": "m2K1nP4vHAQ0",
+      "lastModified": "2026-01-18T02:48:15.6337778Z",
+      "size": 2257699
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Excellents - Coney Island Baby.ogg": {
+      "hash": "isbwZdeqkgaI",
+      "lastModified": "2026-01-18T02:48:15.6467764Z",
+      "size": 1360778
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Killers - Mr. Brightside.ogg": {
+      "hash": "8K7vm5NtsDZs",
+      "lastModified": "2026-01-18T02:48:15.6697769Z",
+      "size": 2913697
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Living Tombstone - Its Been So Long.ogg": {
+      "hash": "Qt0jYqs07Gzt",
+      "lastModified": "2026-01-18T02:48:15.6887766Z",
+      "size": 2312753
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/the peggies - Centimeter.ogg": {
+      "hash": "R6vhqgVKqezm",
+      "lastModified": "2026-01-18T02:48:15.713778Z",
+      "size": 3025601
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Smiths - Back to the Old House (2011 Remaster).ogg": {
+      "hash": "JC9SHATmxkTY",
+      "lastModified": "2026-01-18T02:48:15.7352875Z",
+      "size": 2581656
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Smiths - Please, Please, Please Let Me Get What I Want (2011 Remastered Version).ogg": {
+      "hash": "C3WAqJjNgfbB",
+      "lastModified": "2026-01-18T02:48:15.7502866Z",
+      "size": 1673118
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Smiths - There Is a Light That Never Goes Out .ogg": {
+      "hash": "RSf9er3dXwHP",
+      "lastModified": "2026-01-18T02:48:15.7752899Z",
+      "size": 3565093
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Smiths - This Charming Man (2011 Remaster).ogg": {
+      "hash": "7dGK+MsOiJFq",
+      "lastModified": "2026-01-18T02:48:15.7932861Z",
+      "size": 2132769
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/The Sundays - Summertime.ogg": {
+      "hash": "epq3jDSU1qFT",
+      "lastModified": "2026-01-18T02:48:15.817289Z",
+      "size": 2925156
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Thyme - forever we can make it!.ogg": {
+      "hash": "FayMTGZKSKrj",
+      "lastModified": "2026-01-18T02:48:15.8437961Z",
+      "size": 3440224
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Tommy February6 - I Only Want To Be With You.ogg": {
+      "hash": "STb4WGjb0Rr5",
+      "lastModified": "2026-01-18T02:48:15.8707957Z",
+      "size": 3480984
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/TOOBOE - tablet.ogg": {
+      "hash": "Qcfs4qWPCJcC",
+      "lastModified": "2026-01-18T02:48:12.5225032Z",
+      "size": 2853668
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/TV Girl - Loving Machine.ogg": {
+      "hash": "EYNKGhIkowNO",
+      "lastModified": "2026-01-18T02:48:12.5440101Z",
+      "size": 3065937
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/vertopal.com_ATARASHII GAKKO! - Tokyo Calling.ogg": {
+      "hash": "ZPTGFru/ykU3",
+      "lastModified": "2026-01-18T02:48:12.5660094Z",
+      "size": 2725478
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/vertopal.com_Lucky Twice - Lucky.ogg": {
+      "hash": "/av0E8LrUhtS",
+      "lastModified": "2026-01-18T02:48:12.5900091Z",
+      "size": 2766599
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/vertopal.com_Round Table - Book End Bossa.ogg": {
+      "hash": "cTaSLaURFWWm",
+      "lastModified": "2026-01-18T02:48:12.6120091Z",
+      "size": 2523534
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/vertopal.com_Yael Naim - New Soul.ogg": {
+      "hash": "O52XoSIpfbDo",
+      "lastModified": "2026-01-18T02:48:12.6375176Z",
+      "size": 2908346
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Weezer - I Just Threw Out The Love Of My Dreams.ogg": {
+      "hash": "uWT1uOA2fkU0",
+      "lastModified": "2026-01-18T02:48:12.6565184Z",
+      "size": 2123831
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Wisp - Your face.ogg": {
+      "hash": "XNMDv997bcmR",
+      "lastModified": "2026-01-18T02:48:12.6805187Z",
+      "size": 3011432
+    },
+    "C:/Program Files (x86)/Steam/steamapps/common/PEAK/BepInEx/plugins/../onlystar-sPEAKer Music/Yoko Takahashi - The Cruel Angels Thesis (Directors Edit Version).ogg": {
+      "hash": "2Ld6QdRKSJ6Y",
+      "lastModified": "2026-01-18T02:48:12.7065174Z",
+      "size": 3499469
+    }
+  }
+}
