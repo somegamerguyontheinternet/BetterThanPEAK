@@ -1,7 +1,7 @@
 # BetterThanPEAK
 This is a tool that completly changes your PEAK experiance!
 
-# **You must get the .NET 8.0 Runtime and the VS Studio Runtime**
+# **You must get the .NET 8.0 Runtime and the VS Studio Runtime for non universal, but fully automated**
 
 
 .NET Runtime (Desktop Runtime for Windows)
